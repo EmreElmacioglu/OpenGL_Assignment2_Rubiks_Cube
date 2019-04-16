@@ -1,4 +1,4 @@
-# OpenGL_Assignment2_Rubiks_Cube
+# OpenGL_Assignment2
 A 2x2 Rubik's cube OpenGL implementation
 
 Project can be compiled and run with the Makefile.
@@ -28,3 +28,9 @@ Rotating the cube
 Exiting the application
 ------------------------
 Application can be terminated by pressing 'q'
+
+
+Include Files:
+--------------
+Interactive Computer Graphics A Top-Down Approach with OpenGL
+Edward Angel and Dave Shreiner Sixth Edition, Addison-Wesley 2012
